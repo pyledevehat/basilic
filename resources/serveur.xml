@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serveur><utilisateur><nom>Bob</nom><bdd><mysql /></bdd><blog><dotclear /></blog></utilisateur></serveur>
